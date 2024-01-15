@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(243, 237, 229);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+#image_P {
+    position: absolute;
+    right: 45px;
+    margin-top: 85px;
+}
+
+.img_P {
+    width: 356px;
+}
+
+input {
+    border: 0;
+    margin-left: 38px;
+}
+
+#logo {
+    position: relative;
+    top: 45px;
+    left: 116px;
+}
+
+#link {
+    position: absolute;
+    top: 25px;
+    left: 360px;
+}
+
+
+#in {
+    margin-left: 256px;
+}
+
+#try {
+    color: white;
+    border: 5px solid black;
+    background: black;
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold
+}
+
+#text {
+    display: inline-block;
+    margin: 155px 125px;
+}
+
+#Principal {
+    font-size: 72px;
+}
+
+#color {
+    color: orange;
+    font-weight: bold
+}
+
+#sub_text {
+    font-size: 22px;
+    margin: 15px 0 36px;
+}
+
+#button {
+    display: block;
+    border: 2px solid black;
+    background: black;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    max-width: 155px;
+
+    font-family: 'Inter', sans-serif;
+}
+
+#Rating {
+    margin-top: 46px;
+    margin-bottom: 60px;
+    display: inline-block;
+}
+
+#img_1 {
+    position: relative;
+    top: 8px;
+}
+
+
+#final {
+    position: absolute;
+    left: 220px;
+}
+#text_F {
+    text-align: center;
+    color: gray;
+}
+
+#final img {
+     margin: 26px 32px;
+}
+
+#button:hover {
+    color: orange;
+}
+#try:hover {
+    color: orange;
+}
+
+#in:hover {
+    color: orange
+}
+
+#select-Tx {
+    font-size: 12px;
+    background: white;
+    padding: 0px 26px 15px;
+}
+
+#hover {
+    border: 6px solid white;
+    background: white;
+    max-width: 280px;
+    border-radius: 10px;
+    padding: 36px 22px;
+    position: absolute;
+    left: -60px;
+    top: 64px;
+    font-weight: bold;
+}
+
+#select-Ti {
+    background: white;
+    display: inline;
+    font-weight: bold;
+}
+
+#hover button {
+    background: white;
+    margin: 0;
+    border: 0;
+    text-align: left;
+}
+#hover-img{
+    margin: 0;
+    background: white;
+}
+
+#hover button img {
+    background: white;
+}
+
+#select_1 {
+    display: inline-block;
+}
+
+
+#link input:hover {
+    color: orange;
+}
+
+#select_1 #hover button:hover {
+    color: orange;
+}
